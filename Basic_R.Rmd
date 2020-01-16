@@ -4,6 +4,6 @@ author: "Thuwaarahan"
 date: "1/15/2020"
 output: html_document
 ---
-
+how r u
 ```{r}
-```
+```check
